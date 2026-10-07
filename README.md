@@ -1,6 +1,6 @@
 # GRC Portfolio
 
-Five practical GRC projects by Gobl3t: information security, insurance and financial services, Kenya.
+Five practical GRC projects by Gobl3t: information security, insurance and financial services.
 
 | Repo | Focus |
 |---|---|
