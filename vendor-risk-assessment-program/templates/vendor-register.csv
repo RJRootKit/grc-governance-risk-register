@@ -1,0 +1,4 @@
+Vendor,Service,Data Accessed,Tier,Score,Last Assessed,Next Review,Open Gaps,Owner
+Vendor A,Claims processing,Personal and financial,1,72%,2026-09-01,2027-09-01,2,Procurement
+Vendor B,Email marketing,Contact details,2,85%,2026-08-15,2028-08-15,0,Marketing
+Vendor C,Office supplies,None,3,n/a,2026-07-01,At renewal,0,Admin

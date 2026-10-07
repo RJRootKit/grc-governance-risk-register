@@ -1,0 +1,4 @@
+Finding ID,Source,Control Ref,Finding,Severity,Owner,Evidence Required,Evidence Link,Opened,Due,Status,Notes
+F-001,Internal audit,CC6.1,Shared admin accounts in use,High,Head of IT,Unique admin account list,,2026-10-01,2026-11-15,Open,
+F-002,Internal audit,CC7.1,No monthly vulnerability scan evidence,Medium,Security lead,Scan reports for last 3 months,,2026-10-01,2026-11-30,In progress,
+F-003,External audit,CC8.1,Changes deployed without approval record,High,Engineering manager,Change tickets with approvals,,2026-10-05,2026-12-01,Open,

@@ -1,0 +1,12 @@
+SOC 2 Criteria,Control Objective,Cloud Implementation (AWS example),ISO 27001:2022 Annex A,Evidence,Owner
+CC6.1,Logical access restricted,IAM roles with least privilege; MFA on all users,5.15; 8.5,IAM credential report; MFA status,Cloud admin
+CC6.2,User provisioning and removal,Joiner-mover-leaver tied to IdP/SSO,5.16; 5.18,Access request tickets; quarterly review,HR + IT
+CC6.6,Boundary protection,Security groups; WAF; private subnets,8.20; 8.22,Network diagrams; SG exports,Cloud admin
+CC6.7,Data in transit protected,TLS enforced; ACM certificates,8.24,TLS config scans,Cloud admin
+CC7.1,Vulnerability detection,Inspector / scanner on a schedule,8.8,Monthly scan reports,Security lead
+CC7.2,Monitoring for anomalies,CloudTrail; GuardDuty; centralised logs,8.15; 8.16,Log retention config; alert samples,Security lead
+CC7.4,Incident response,Documented IR plan; tested annually,5.24; 5.26,IR plan; tabletop report,CISO
+CC8.1,Change management,Pull requests with approval; CI/CD gates,8.32,Change tickets; PR approvals,Engineering manager
+CC9.2,Vendor risk,Vendor tiering and reviews,5.19; 5.21,Vendor register; assessments,Procurement
+A1.2,Backup and recovery,Automated backups; tested restore,8.13; 8.14,Backup policy; restore test log,Cloud admin
+C1.1,Confidentiality of data,KMS encryption at rest; data classification,5.12; 8.24,KMS config; classification register,Data owner

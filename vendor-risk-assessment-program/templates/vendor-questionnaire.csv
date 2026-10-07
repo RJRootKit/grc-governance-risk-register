@@ -1,0 +1,10 @@
+Tier,Domain,Question,Evidence Requested
+1,Governance,Do you hold ISO 27001 or SOC 2 certification?,Certificate or report
+1,Access,Is MFA enforced for all administrative access?,Policy or screenshot
+1,Data protection,Is customer data encrypted at rest and in transit?,Architecture or policy
+1,Incident response,Do you notify customers of breaches within an agreed timeline?,IR plan; contract clause
+1,Data protection,Are sub-processors disclosed and bound by equivalent terms?,Sub-processor list
+1,Resilience,Are backups and recovery tested at least annually?,Test report
+2,Governance,Do you have a documented information security policy?,Policy
+2,Access,Are user accounts reviewed periodically?,Review record
+3,General,Will the vendor access our systems or data?,Onboarding form

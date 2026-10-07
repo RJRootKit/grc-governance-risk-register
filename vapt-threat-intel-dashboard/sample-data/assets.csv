@@ -1,0 +1,5 @@
+host,criticality,internet_facing
+web01,5,yes
+db01,5,no
+fileserver,3,no
+printer01,1,no

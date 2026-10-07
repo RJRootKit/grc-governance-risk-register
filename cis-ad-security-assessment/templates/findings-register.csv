@@ -1,0 +1,4 @@
+ID,Control,Benchmark Ref,Finding,Severity,Evidence,Recommended Fix,Rollback Note,Owner,Status
+C-001,Password policy,[CIS ref],Minimum length below baseline,High,GPO export,Raise to baseline via GPO,Revert GPO link,Head of IT,Open
+C-002,SMB signing,[CIS ref],Signing not required,High,Registry check,Enable required signing,Disable policy and reboot,Head of IT,Open
+C-003,RDP,[CIS ref],Encryption level not enforced,Critical,GPO export,Enforce high encryption and NLA,Revert policy,Head of IT,Open

@@ -1,0 +1,5 @@
+finding_id,host,cve,cvss,exploit_available,known_exploited
+V-001,web01,CVE-0000-0001,9.8,yes,yes
+V-002,db01,CVE-0000-0002,7.5,no,no
+V-003,fileserver,CVE-0000-0003,8.1,yes,no
+V-004,printer01,CVE-0000-0004,5.3,no,no

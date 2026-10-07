@@ -1,0 +1,6 @@
+ID,Asset,Threat,Vulnerability,Likelihood,Impact,Score,Rating,Existing Control,Treatment,Treatment Plan,Risk Owner,Residual Score,Annex A Ref,Status,Next Review
+R-001,Policy admin system,Ransomware,Unpatched servers,4,5,20,Critical,Weekly backups,Mitigate,Patch SLA and offline backups,Head of IT,8,8.8 / 8.13,Open,2026-12-31
+R-002,Customer PII database,Unauthorised access,Excessive privileges,3,5,15,High,Role groups,Mitigate,Quarterly access reviews,DPO,6,5.15 / 5.18,Open,2026-12-31
+R-003,Claims portal,Credential stuffing,No MFA,4,4,16,High,Password policy,Mitigate,Enforce MFA,Head of IT,4,8.5,Open,2026-12-31
+R-004,Third-party claims vendor,Vendor breach,No security clauses,3,4,12,High,Contract,Mitigate,Add security and breach-notification clauses,Procurement,6,5.19 / 5.20,Open,2026-12-31
+R-005,Office network,Insider misuse,No logging review,2,3,6,Medium,Basic logging,Mitigate,Centralise logs and review monthly,Security lead,3,8.15 / 8.16,Open,2027-03-31
